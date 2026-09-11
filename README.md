@@ -44,9 +44,5 @@ Processing Summary
 
 - `Anniversary_Auto.py` – Main automation script
 - `requirements.txt` – Python dependencies
-- `employee_data_sample.xlsx` – Sample input data
+- `.gitignore` – Files excluded from version control
 
-## Note
-
-The employee data included in this repository is synthetic and
-does not contain real employee information. 
